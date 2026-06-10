@@ -1,0 +1,580 @@
+==============================================================================
+BLAST HOMOLOGY REPORT: Bacterial Reads vs Campylobacter jejuni NCTC 11168
+==============================================================================
+
+Reference genome : AL111168.1 (C. jejuni NCTC 11168 complete genome)
+BLAST parameters : evalue ≤ 1e-5, identity ≥ 70%, word_size = 11
+Kraken2 reports  : 96 samples
+FASTQ files      : unmapped_R1.fastq.gz + unmapped_R2.fastq.gz
+
+Bacterial taxa identified across all Kraken2 reports : 9,112
+Bacterial species (S-rank) identified                : 6,151
+Total bacterial reads queried                        : 68,394 (from 136,788 FASTA entries)
+Total BLAST hits to C. jejuni                        : 219,752
+Taxa with ≥1 BLAST hit                               : 78
+Taxa with 0 BLAST hits                               : 460
+
+──────────────────────────────────────────────────────────────────────────────
+TAXA WITH BLAST HITS TO C. jejuni (sorted by number of hits)
+──────────────────────────────────────────────────────────────────────────────
+
+Taxon Name                                    Rank    Reads   Hits   Hit%  AvgID%  MaxID%  AvgCov%     min-E
+------------------------------------------------------------------------------------------------------------
+Campylobacter                                 G       52349 204698 391.0%   99.6%  100.0%    99.4%   1.1e-76
+Campylobacter jejuni                          S        3482   8678 249.2%   98.3%  100.0%    99.0%   1.1e-76
+Campylobacterales                             O         256   1064 415.6%   99.8%  100.0%    99.9%   1.0e-66
+Bacteria                                      D         349    487 139.5%   89.0%  100.0%    91.7%   2.5e-68
+Pseudomonadaceae                              F         103    414 401.9%   83.0%   93.9%    57.2%   9.6e-23
+Gammaproteobacteria                           C         123    309 251.2%   80.9%   86.7%    71.7%   3.4e-32
+Campylobacter jejuni subsp. jejuni            S1         86    282 327.9%   99.0%  100.0%    99.8%   1.1e-76
+Campylobacter novaezeelandiae                 S          62    267 430.6%   93.2%  100.0%    85.2%   1.1e-76
+Paracoccus                                    G         125    243 194.4%   86.0%   93.8%    54.0%   1.2e-31
+Campylobacter coli                            S          87    225 258.6%   98.7%  100.0%    97.7%   1.1e-76
+Alphaproteobacteria                           C          71    198 278.9%   83.4%   84.8%    97.4%   4.4e-36
+Campylobacter avium LMG 24591                 S1         33    194 587.9%   98.9%  100.0%    99.9%   5.2e-75
+Campylobacter sp. RM10537                     S          35    186 531.4%   98.4%  100.0%    99.8%   1.1e-76
+Paracoccaceae                                 F          40    168 420.0%   83.5%   91.0%    88.7%   8.8e-33
+Paracoccus contaminans                        S          23    132 573.9%   78.1%   78.4%    94.3%   1.6e-20
+Campylobacter helveticus                      S          27    127 470.4%   98.7%  100.0%    99.8%   1.1e-76
+Actinomycetes                                 C          63    123 195.2%   85.5%   88.5%    48.0%   9.0e-28
+Kocuria rhizophila                            S          55    108 196.4%   78.4%   79.5%    63.9%   1.6e-10
+Campylobacter subantarcticus                  S          17    102 600.0%   98.0%  100.0%    99.2%   1.1e-76
+Corynebacterium                               G          66    102 154.5%   76.1%   76.4%    98.4%   4.5e-16
+Moraxellaceae                                 F          15     90 600.0%   88.4%   90.5%    85.4%   2.6e-43
+Moraxella                                     G         120     90  75.0%   82.3%   89.0%    83.7%   2.6e-33
+Pseudomonadota                                P         196     90  45.9%   80.4%   83.3%    61.2%   3.5e-12
+unclassified Campylobacter                    G1         23     83 360.9%   95.5%  100.0%    80.5%   1.1e-76
+Campylobacter hepaticus                       S          39     79 202.6%   98.9%  100.0%    99.2%   1.1e-76
+Campylobacter gracilis                        S          13     78 600.0%   98.9%  100.0%    99.9%   5.3e-75
+Rhodobacterales                               O          50     78 156.0%   87.3%   91.0%    49.7%   2.1e-24
+Streptococcus                                 G          93     76  81.7%   81.8%   83.7%    90.2%   9.6e-23
+Terrabacteria group                           D1         20     72 360.0%   82.3%   84.8%    65.6%   1.7e-14
+Paracoccus sp. MC1862                         S          40     60 150.0%   88.3%   93.8%    32.9%   5.8e-10
+Campylobacter lari subsp. concheus            S1         27     59 218.5%   97.4%  100.0%    97.5%   1.1e-76
+Campylobacter armoricus                       S          27     54 200.0%   99.9%  100.0%   100.0%   1.1e-76
+Methylobacteriaceae                           F           9     51 566.7%   77.4%   78.3%    88.7%   2.7e-18
+unclassified Leptotrichia                     G1          8     48 600.0%   79.4%   81.1%    87.6%   4.4e-21
+Campylobacter sp. CFSAN093246                 S          22     44 200.0%   99.7%  100.0%    99.6%   1.1e-76
+Campylobacter vulpis                          S          21     42 200.0%  100.0%  100.0%    99.8%   1.1e-76
+Cutibacterium granulosum                      S          16     42 262.5%   84.2%   89.2%    80.8%   9.5e-28
+Candidatus Methylopumilus universalis         S          20     39 195.0%   79.0%   81.4%    84.8%   7.4e-19
+Chryseobacterium                              G           6     36 600.0%   75.9%   75.9%    83.1%   6.3e-09
+Spirosoma pollinicola                         S           6     33 550.0%   83.5%   83.6%    36.4%   9.8e-08
+Campylobacter corcagiensis                    S          16     32 200.0%   97.3%   97.4%   100.0%   5.4e-70
+Epsilonproteobacteria                         C           5     30 600.0%   99.2%  100.0%   100.0%   1.5e-26
+Campylobacter cuniculorum                     S          11     30 272.7%   98.9%  100.0%   100.0%   1.1e-76
+Hyphomicrobiales                              O           5     30 600.0%   77.7%   77.7%    90.6%   1.4e-15
+Campylobacter jejuni subsp. jejuni 1336       S2         14     28 200.0%   98.6%  100.0%   100.0%   1.1e-76
+Campylobacter sp. RM5004                      S           4     24 600.0%   98.0%  100.0%    99.7%   1.1e-76
+Paracoccus kondratievae                       S           4     24 600.0%   97.8%   97.8%    35.4%   1.1e-16
+Campylobacter insulaenigrae                   S           5     18 360.0%   98.0%  100.0%    99.9%   1.1e-76
+Nocardioides sp. HDW12B                       S           3     18 600.0%   88.3%   93.5%    39.7%   3.5e-17
+Betaproteobacteria                            C           4     18 450.0%   82.7%   92.4%    79.5%   3.4e-32
+Campylobacter upsaliensis                     S           8     16 200.0%   98.9%  100.0%   100.0%   1.1e-76
+Malaciobacter halophilus                      S           2     12 600.0%   99.5%  100.0%   100.0%   8.5e-57
+unclassified Paracoccus (in: a-proteobacteria G1          4     12 300.0%   77.2%   77.2%    75.5%   3.5e-12
+Campylobacter jejuni X                        S1          5     10 200.0%   98.8%  100.0%    99.8%   1.1e-76
+Acinetobacter sp. 10FS3-1                     S           4      7 175.0%   77.4%   79.0%    79.0%   2.7e-13
+Campylobacter iguaniorum                      S           3      6 200.0%   99.2%  100.0%   100.0%   1.1e-76
+Campylobacter lari                            S           3      6 200.0%   98.5%  100.0%    99.9%   4.1e-76
+Sulfurovum sp. XGS-02                         S           1      6 600.0%   98.5%  100.0%   100.0%   1.0e-66
+Campylobacter geochelonis                     S           1      6 600.0%   94.9%   96.7%   100.0%   2.5e-68
+Coraliomargarita akajimensis DSM 45221        S1          1      6 600.0%   91.3%   92.1%   100.3%   1.2e-56
+Staphylococcus pseudintermedius               S           1      6 600.0%   85.4%   85.4%    80.4%   4.2e-06
+Streptomyces                                  G          61      6   9.8%   84.9%   84.9%    48.3%   2.1e-14
+Nocardioides cynanchi                         S           2      6 300.0%   83.6%   84.5%    38.4%   5.8e-10
+Deinococcus radiopugnans                      S           2      6 300.0%   83.6%   83.6%    40.4%   7.5e-09
+Stenotrophomonas maltophilia                  S         185      6   3.2%   82.7%   82.7%    34.4%   4.5e-06
+Campylobacter fetus                           S           4      4 100.0%   86.8%   99.2%    99.6%   5.5e-59
+Staphylococcus saccharolyticus                S         246      4   1.6%   78.6%   78.6%    55.6%   7.5e-09
+Listeria monocytogenes                        S           2      3 150.0%   91.4%   91.4%    33.3%   2.3e-07
+Pseudomonas veronii                           S           1      3 300.0%   87.8%   87.8%    27.2%   3.5e-07
+Shewanella                                    G           1      3 300.0%   77.1%   77.1%    86.8%   9.7e-13
+Campylobacter hyointestinalis                 S           1      2 200.0%   99.7%  100.0%   100.0%   1.1e-76
+Campylobacter sp. RM8964                      S           1      2 200.0%   99.7%  100.0%   100.0%   1.1e-76
+Campylobacter lari RM2100                     S1          1      2 200.0%   99.0%  100.0%   100.0%   1.1e-76
+Campylobacter jejuni subsp. jejuni NCTC 11168 S3          1      2 200.0%   98.4%   98.4%   100.0%   5.6e-59
+Campylobacter coli RM4661                     S1          1      2 200.0%   97.4%  100.0%    99.3%   1.5e-75
+Campylobacter sp. CFSAN093260                 S           1      2 200.0%   96.2%   97.2%   100.0%   1.4e-65
+Campylobacter lari RM16712                    S1          1      2 200.0%   96.0%  100.0%    98.6%   1.1e-76
+Acinetobacter                                 G         567      1   0.2%   79.0%   79.0%    69.5%   2.7e-13
+
+──────────────────────────────────────────────────────────────────────────────
+TAXA WITH NO BLAST HITS TO C. jejuni
+──────────────────────────────────────────────────────────────────────────────
+
+Taxon Name                                         Rank    Reads
+-----------------------------------------------------------------
+Cutibacterium acnes                                S        1507
+Moraxella osloensis                                S         478
+Acidovorax temperans                               S         456
+Pseudomonas                                        G         238
+Micrococcus                                        G         163
+Janibacter                                         G         133
+Stutzerimonas stutzeri                             S         128
+Paracoccus sanguinis                               S         116
+Staphylococcus epidermidis                         S         105
+Gardnerella swidsinskii                            S          98
+Diaphorobacter                                     G          86
+Xanthomonas campestris                             S          85
+Cloacibacterium caeni                              S          82
+Acinetobacter johnsonii                            S          81
+Burkholderiales                                    O          74
+Comamonas                                          G          72
+Acinetobacter junii                                S          61
+Cutibacterium                                      G          61
+unclassified Streptomyces                          G1         60
+Staphylococcus capitis                             S          56
+Paenibacillus naphthalenovorans                    S          52
+Kocuria palustris                                  S          51
+Staphylococcus                                     G          51
+Paracoccus marcusii                                S          50
+unclassified Diaphorobacter                        G1         49
+Marinobacter sp. CP1                               S          47
+Bacillus velezensis                                S          45
+Janibacter indicus                                 S          45
+Janibacter sp. CX7                                 S          43
+Corynebacterium tuberculostearicum                 S          42
+Haematobacter massiliensis                         S          40
+Diaphorobacter limosus                             S          39
+Methyloversatilis sp. RAC08                        S          39
+Cloacibacterium                                    G          37
+Paracoccus yeei                                    S          37
+Mycolicibacterium                                  G          36
+Streptococcus thermophilus                         S          36
+Acinetobacter baumannii                            S          35
+Delftia                                            G          35
+Streptococcus pneumoniae                           S          35
+Corynebacterium kefirresidentii                    S          34
+Brevundimonas albigilva                            S          34
+unclassified Pseudomonas                           G1         33
+Pseudomonas putida                                 S          33
+Halomonas sp. NyZ770                               S          33
+Streptococcus gordonii                             S          32
+Pararhizobium sp. IMCC3301                         S          30
+Aquabacterium olei                                 S          30
+Gardnerella                                        G          30
+Staphylococcus aureus                              S          30
+Alicycliphilus denitrificans                       S          30
+Acinetobacter lwoffii                              S          28
+Streptomyces anulatus                              S          28
+Bacillus cereus group                              G1         27
+Bergeyella cardium                                 S          27
+Comamonas thiooxydans                              S          27
+Kaistia sp. 32K                                    S          25
+Methylobacterium                                   G          25
+Marinobacter nauticus ATCC 49840                   S1         25
+Micrococcus luteus                                 S          25
+Staphylococcus warneri                             S          25
+Stenotrophomonas                                   G          25
+Mammaliicoccus lentus                              S          25
+Sphingopyxis lindanitolerans                       S          24
+Lawsonella clevelandensis                          S          24
+unclassified Halomonas                             G1         24
+Staphylococcus pasteuri                            S          24
+Streptomyces xanthii                               S          24
+Pseudomonas coleopterorum                          S          23
+Brevundimonas                                      G          23
+Paracoccus sp. S3-43                               S          23
+Rhodococcus                                        G          23
+unclassified Acidovorax                            G1         23
+Rhizobium                                          G          22
+Sphaerotilus microaerophilus                       S          22
+Granulicatella elegans                             S          22
+Streptomyces harbinensis                           S          22
+Brachybacterium sp. GPGPB12                        S          22
+Actinomyces naeslundii                             S          22
+Streptococcus gwangjuense                          S          22
+Chryseobacterium manosquense                       S          21
+Rhodobacter sp. CZR27                              S          21
+Enterobacteriaceae                                 F          21
+Streptomyces xinghaiensis                          S          21
+Marinobacter                                       G          21
+Pseudomonas paraveronii                            S          21
+unclassified Streptococcus                         G1         21
+Aerococcus urinaeequi                              S          20
+Rothia mucilaginosa                                S          20
+Ferrovibrio terrae                                 S          20
+Streptococcus mitis                                S          20
+Brevibacterium spongiae                            S          20
+Moraxella sp. DOX410                               S          20
+Comamonas testosteroni                             S          19
+Empedobacter                                       G          19
+Paracoccus seriniphilus                            S          19
+Pantoea agglomerans                                S          19
+Halomonas                                          G          19
+Bacillus cereus                                    S          19
+Diaphorobacter sp. JS3050                          S          19
+Gardnerella leopoldii                              S          19
+Bacteroidales                                      O          19
+Sphingobium sp. EP60837                            S          18
+Providencia                                        G          18
+Brevundimonas bullata                              S          18
+Paenibacillus sp. FSL E2-0178                      S          18
+Microterricola viridarii                           S          18
+Granulicatella adiacens                            S          18
+Bradyrhizobium sp. BTAi1                           S          18
+Streptococcus sanguinis                            S          18
+Priestia megaterium                                S          18
+Corynebacterium minutissimum                       S          18
+Pseudomonas fluorescens group                      G1         18
+Achromobacter sp. E1                               S          18
+Paracoccus liaowanqingii                           S          17
+Gallionellaceae                                    F          17
+Methylorubrum                                      G          17
+Anaerococcus mediterraneensis                      S          17
+Anderseniella sp. Alg231-50                        S          17
+Sphingobium sp. YG1                                S          17
+Paracoccus denitrificans                           S          16
+Erwinia                                            G          16
+Diaphorobacter nitroreducens                       S          16
+Roseimaritima multifibrata                         S          16
+Streptococcus constellatus                         S          16
+Acinetobacter pittii                               S          16
+Mycolicibacterium fortuitum                        S          16
+Enterobacter sp. T2                                S          16
+Rahnella aquatilis CIP 78.65 = ATCC 33071          S1         16
+Actinomyces oris                                   S          16
+Staphylococcus ureilyticus                         S          16
+Rothia dentocariosa                                S          16
+Pseudomonas sp. DTU12.1                            S          15
+Proteus mirabilis                                  S          15
+Faecalibacterium sp. I4-3-84                       S          15
+Halomonas sp. CKK8                                 S          15
+Cloacibacterium sp. TD35                           S          15
+Microbacterium                                     G          15
+Microbacterium sediminis                           S          15
+Streptomyces durocortorensis                       S          15
+Hyphomicrobium denitrificans ATCC 51888            S1         15
+Flavobacterium channae                             S          15
+Streptomyces bobili                                S          15
+Mycobacteroides chelonae                           S          15
+Porphyromonas sp. oral taxon 275                   S          15
+Gardnerella vaginalis HMP9231                      S1         15
+Micromonospora                                     G          15
+Actinomyces sp. oral taxon 171 str. F0337          S1         15
+Microbacterium aurum                               S          15
+Acinetobacter guillouiae                           S          14
+Pseudomonas aeruginosa                             S          14
+Pseudomonas fragi                                  S          14
+Legionellaceae                                     F          14
+Comamonas terrigena NBRC 13299                     S1         14
+Massilia litorea                                   S          14
+Paracoccus zhejiangensis                           S          14
+Staphylococcus saprophyticus                       S          14
+Pseudomonas lurida                                 S          14
+Corynebacterium nuruki S6-4                        S1         14
+Tenacibaculum singaporense                         S          14
+Brucella pseudogrignonensis                        S          14
+Corynebacterium diphtheriae                        S          14
+Acidovorax sp. KKS102                              S          14
+Microbacterium testaceum                           S          14
+Qipengyuania xiapuensis                            S          13
+Delftia tsuruhatensis                              S          13
+Corynebacterium diphtheriae bv. mitis str. ISS 331 S2         13
+Acidovorax sp. 1608163                             S          13
+Achromobacter veterisilvae                         S          13
+Hoylesella buccalis                                S          13
+Sphingomonadales                                   O          13
+Rhodococcus opacus B4                              S1         13
+Amycolatopsis rhabdoformis                         S          12
+Pseudomonas viridiflava                            S          12
+Xanthomonas                                        G          12
+Paracoccus sp. AK26                                S          12
+Candidatus Ichthyocystis hellenicum                S          12
+Verminephrobacter eiseniae EF01-2                  S1         12
+Staphylococcus auricularis                         S          12
+Comamonadaceae                                     F          12
+Sphingomonas morindae                              S          12
+Streptococcus sobrinus                             S          12
+Leisingera thetidis                                S          12
+Sphingomonas sp. gentR                             S          12
+Nocardioides                                       G          12
+Empedobacter falsenii                              S          12
+Brevundimonas sp. Bb-A                             S          11
+Rhizobiaceae                                       F          11
+Martelella                                         G          11
+Ewingella americana                                S          11
+unclassified Synechococcus                         G1         11
+Streptomyces sp. T12                               S          11
+Klebsiella pneumoniae                              S          11
+Pseudomonas sp. CIP-10                             S          11
+Staphylococcus cohnii                              S          11
+Corynebacterium afermentans subsp. lipophilum      S1         11
+Brevibacterium luteolum                            S          11
+Rheinheimera sp. MM224                             S          11
+Comamonas testosteroni TK102                       S1         11
+Novosphingobium sp. EMRT-2                         S          11
+Bradyrhizobium prioritasuperba                     S          11
+Diaphorobacter ruginosibacter                      S          11
+Bradyrhizobium sp. SK17                            S          11
+Lactobacillus                                      G          11
+Lactobacillus acidophilus                          S          11
+Flavivirga abyssicola                              S          11
+Corynebacterium genitalium ATCC 33030              S1         11
+Gordonia bronchialis                               S          10
+Massilia sp. NP310                                 S          10
+Burkholderiaceae                                   F          10
+Sphingomonadaceae                                  F          10
+Azotobacter                                        G          10
+Brucella intermedia                                S          10
+Neisseriaceae                                      F          10
+unclassified Geobacillus                           G1         10
+Ketogulonicigenium vulgare                         S          10
+Streptomyces cyaneofuscatus                        S          10
+Mycolicibacterium confluentis                      S          10
+Micromonospora sp. WMMD987                         S          10
+Clostridium tetani                                 S          10
+Lentzea sp. NBC_00516                              S          10
+Massilia oculi                                     S          10
+Halomonas sp. I5-271120                            S          10
+Pseudomonas sp. DG56-2                             S          10
+Flavobacterium cyclinae                            S           9
+Streptomyces hygroscopicus subsp. hygroscopicus    S1          9
+Moraxella nonliquefaciens                          S           9
+Qipengyuania citrea                                S           9
+Pseudoalteromonas sp. SCSIO 43088                  S           9
+Haemophilus parainfluenzae T3T1                    S1          9
+Mycobacteroides                                    G           9
+Microbacteriaceae                                  F           9
+Actinomadura verrucosospora                        S           9
+Sphingomonas melonis                               S           9
+Luteimonas sp. YGD11-2                             S           9
+Megamonas funiformis                               S           9
+Pseudoxanthomonas                                  G           9
+Pigmentiphaga sp. CHJ604                           S           9
+Agrobacterium cucumeris                            S           9
+Flavobacteriales                                   O           9
+Janibacter sp. YB324                               S           8
+Streptococcus cristatus ATCC 51100                 S1          8
+Methylorubrum extorquens                           S           8
+Corynebacterium variabile DSM 44702                S1          8
+Microbulbifer sp. ALW1                             S           8
+Thiomicrorhabdus xiamenensis                       S           8
+Chryseobacterium group                             F1          8
+unclassified Gordonia (in: high G+C Gram-positive  G1          8
+Sphingomonas paucimobilis                          S           8
+Rhizobium etli 8C-3                                S1          8
+Pseudomonas syringae group                         G1          8
+Acinetobacter sp. KCTC 92772                       S           8
+Sphingomonas sp. S2-65                             S           8
+Streptococcus oralis Uo5                           S1          8
+Legionella fallonii LLAP-10                        S1          7
+Kocuria                                            G           7
+Pseudomonas chengduensis                           S           7
+Acinetobacter baylyi                               S           7
+Dysgonomonas capnocytophagoides                    S           7
+Halomonas binhaiensis                              S           7
+Pseudomonas syringae                               S           7
+Spiractinospora alimapuensis                       S           7
+Roseateles depolymerans                            S           7
+Halanaerobium praevalens DSM 2228                  S1          7
+Bacillales                                         O           7
+Shinella sumterensis                               S           7
+Vreelandella profundi                              S           7
+Actinomyces sp. oral taxon 414                     S           7
+Actinomyces                                        G           7
+Arthrobacter                                       G           7
+Pseudomonas aeruginosa group                       G1          7
+Stutzerimonas stutzeri group                       G1          7
+Leclercia adecarboxylata                           S           7
+Acinetobacter venetianus VE-C3                     S1          7
+Glaciimonas sp. PAMC28666                          S           7
+Marichromatium purpuratum 984                      S1          7
+Methylobacterium sp. AMS5                          S           6
+Methylorubrum extorquens AM1                       S1          6
+Brevundimonas diminuta                             S           6
+Pseudomonas oryzihabitans                          S           6
+Epilithonimonas vandammei                          S           6
+Arcanobacterium wilhelmae                          S           6
+Psychrobacter sanguinis                            S           6
+Aeromonas sp. CU5                                  S           6
+Bosea                                              G           6
+Delftia lacustris                                  S           6
+Prevotella intermedia                              S           6
+Spiribacter sp. 2438                               S           6
+Streptomyces finlayi                               S           6
+Mycobacterium                                      G           6
+Prevotella jejuni                                  S           6
+Gordonia                                           G           5
+Caulobacter                                        G           5
+Paracoccus sp. TOH                                 S           5
+Bradyrhizobium                                     G           5
+Streptomyces spongiicola                           S           5
+Acidovorax                                         G           5
+Fusobacterium                                      G           5
+Ancylobacter pratisalsi                            S           5
+Mycobacteriales                                    O           5
+Streptomyces sp. Q6                                S           5
+Roseateles sp. DAIF2                               S           5
+Anoxybacillus sp. FSL W8-1294                      S           5
+Deinococcus aetherius                              S           5
+Epilithonimonas zeae                               S           5
+Polyangium aurulentum                              S           5
+Spiroplasma litorale                               S           5
+Anaerococcus                                       G           5
+Acinetobacter sp. TTH0-4                           S           5
+Aminobacter sp. NyZ550                             S           4
+Kocuria sp. BT304                                  S           4
+Flavobacterium sp. CS20                            S           4
+Nocardioides okcheonensis                          S           4
+Rhizobium sp. WYJ-E13                              S           4
+Neisseria sicca                                    S           4
+Roseomonas mucosa                                  S           4
+Comamonas aquatica                                 S           4
+Jiella pelagia                                     S           4
+Propionibacteriales                                O           4
+Paenibacillus                                      G           4
+Achromobacter mucicolens                           S           4
+Bacillus mycoides                                  S           4
+Brevundimonas sp. SGAir0440                        S           4
+Bifidobacterium longum                             S           4
+Pseudoxanthomonas mexicana                         S           4
+unclassified Pseudoxanthomonas                     G1          4
+unclassified Marinobacter                          G1          4
+Alloalcanivorax                                    G           3
+unclassified Acinetobacter                         G1          3
+Achromobacter                                      G           3
+Sphaerotilus sulfidivorans                         S           3
+Streptomyces dangxiongensis                        S           3
+Stenotrophomonas sp. LM091                         S           3
+Acinetobacter ursingii                             S           3
+Diaphorobacter sp. C33                             S           3
+Caulobacter segnis                                 S           3
+Aeromonas caviae                                   S           3
+Thiobacillus sp.                                   S           3
+Peptonophilus genitalis                            S           3
+Mesorhizobium sp. M7A.F.Ce.TU.012.03.2.1           S           3
+Streptococcus oralis                               S           3
+Lactococcus lactis                                 S           3
+Sphingomonas                                       G           3
+Stenotrophomonas rhizophila                        S           3
+Streptomyces sp. NBC_00385                         S           3
+Streptomycetaceae                                  F           2
+Streptomyces sp. NBC_00588                         S           2
+Gemmatimonas groenlandica                          S           2
+Brucella                                           G           2
+Ralstonia insidiosa                                S           2
+Streptomyces scabiei 87.22                         S1          2
+Pseudoduganella aquatica                           S           2
+Chryseobacterium arthrosphaerae                    S           2
+Paenibacillus sp. RUD330                           S           2
+Chitinophaga niabensis                             S           2
+Bacillaceae                                        F           2
+Synechococcus sp. CBW1107                          S           2
+Sphingosinicella sp. BN140058                      S           2
+Mycobacterium canetti                              S           2
+Aeromonas                                          G           2
+Anaerocolumna chitinilytica                        S           2
+Gemella morbillorum                                S           2
+Mycolicibacterium parafortuitum                    S           2
+Aquincola tertiaricarbonis                         S           2
+Pararhizobium sp. BT-229                           S           2
+Eubacterium sp. MSJ-33                             S           2
+Halarcobacter anaerophilus                         S           2
+Bdellovibrio bacteriovorus                         S           2
+Micrococcales                                      O           2
+Roseovarius sp. THAF9                              S           2
+Enterobacterales                                   O           2
+Stutzerimonas stutzeri subgroup                    G2          2
+Lysobacteraceae                                    F           2
+Enterococcus faecium                               S           2
+Nitrogeniibacter aestuarii                         S           2
+Candidatus Bipolaricaulis anaerobius               S           2
+Corynebacterium simulans                           S           2
+Clostridium botulinum                              S           2
+Roseovarius pacificus                              S           2
+Exiguobacterium sp. N4-1P                          S           2
+Variovorax sp. PBL-E5                              S           2
+Pseudomonas sp. IT1137                             S           2
+Rubrobacter xylanophilus DSM 9941                  S1          2
+Corallococcus macrosporus                          S           1
+Streptomyces liliifuscus                           S           1
+Achromobacter insolitus                            S           1
+Prevotella sp. oral taxon 299 str. F0039           S1          1
+Moraxella canis                                    S           1
+Eggerthella lenta                                  S           1
+Paracoccus mutanolyticus                           S           1
+Nocardioides sp. S5                                S           1
+Pseudomonas alcaligenes                            S           1
+Sphingomonas sanguinis                             S           1
+unidentified bacterial endosymbiont                S           1
+Abyssalbus ytuae                                   S           1
+Roseobacter denitrificans                          S           1
+Loigolactobacillus backii                          S           1
+Luteitalea pratensis                               S           1
+Sphingobacterium daejeonense                       S           1
+Mycolicibacter sp. MU0083                          S           1
+Streptococcus parasuis                             S           1
+Neisseria                                          G           1
+Alcaligenes                                        G           1
+Marinobacter sp. es.042                            S           1
+Escherichia coli                                   S           1
+Klebsiella                                         G           1
+Sphingobium xenophagum                             S           1
+Serratia                                           G           1
+Gardnerella vaginalis                              S           1
+Alteromonas sp. BL110                              S           1
+Vibrio parahaemolyticus                            S           1
+Candidatus Walczuchella                            G           1
+Fibrella aestuarina BUZ 2                          S1          1
+Pseudomonas tolaasii                               S           1
+Ralstonia mannitolilytica                          S           1
+Pseudomonas amygdali                               S           1
+Streptomyces tubbatahanensis                       S           1
+Comamonas flocculans                               S           1
+Tenacibaculum jejuense                             S           1
+Devosia sp. I507                                   S           1
+Kaistella flava (ex Peng et al. 2021)              S           1
+Burkholderia contaminans                           S           1
+Acinetobacter sp. WCHAc010034                      S           1
+Mucilaginibacter gossypii                          S           1
+Chryseobacterium piperi                            S           1
+Gemmatirosa kalamazoonensis                        S           1
+Xanthobacter sp. YC-JY1                            S           1
+Nostocaceae                                        F           1
+Tessaracoccus timonensis                           S           1
+Carnobacterium inhibens subsp. gilichinskyi        S1          1
+Cohnella sp. LGH                                   S           1
+Paracoccus aminovorans                             S           1
+Pantoea piersonii                                  S           1
+Citricoccus sp. I39-566                            S           1
+Pseudomonas atacamensis                            S           1
+Streptococcus pyogenes                             S           1
+Riemerella anatipestifer                           S           1
+Corynebacterium imitans                            S           1
+Mycobacterium shinjukuense                         S           1
+Georgenia sp. M64                                  S           1
+Photobacterium damselae                            S           1
+Aeromicrobium senzhongii                           S           1
+Pseudomonas sp. NIBR-H-19                          S           1
+Polaribacter reichenbachii                         S           1
+Clostridium                                        G           1
+Chryseobacterium paludis                           S           1
+Thiohalobacter sp. IOR34                           S           1
+Streptomyces yangpuensis                           S           1
+Streptococcus sp. NPS 308                          S           1
+Streptomyces sp. CMB-StM0423                       S           1
+Marinobacter sp. CA1                               S           1
+unclassified Paenibacillus                         G1          1
+Echinicola                                         G           1
+Cloacibacterium normanense                         S           1
+Thiorhodovibrio litoralis                          S           1
+Methyloradius palustris                            S           1
+Faecalibacterium                                   G           1
+Sphingobium                                        G           1
+Streptomyces albus                                 S           1
+Sphingomonas sp. HMP9                              S           1
+
+──────────────────────────────────────────────────────────────────────────────
+NOTES
+──────────────────────────────────────────────────────────────────────────────
+* Reads classified at genus, family, or higher levels are included.
+* 'Hit%' = percentage of reads for that taxon with ≥1 BLAST hit to C. jejuni.
+* 'AvgID%' = mean percent identity across all hits for that taxon.
+* 'AvgCov%' = mean query coverage (alignment length / read length × 100).
+* High hit rates with low identity (<85%) may indicate conserved regions
+  shared across Epsilonproteobacteria or other related organisms.
+* Results are for the single sample in fastq/unmapped_R1/R2.fastq.gz.
+  The 100 Kraken2 reports provided the species catalogue used as the
+  taxon reference list.

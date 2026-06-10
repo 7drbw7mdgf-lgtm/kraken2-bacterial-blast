@@ -1,0 +1,539 @@
+taxon_id	species_name	rank	total_reads	hits_vs_cjejuni	hit_rate_%	avg_pident_%	max_pident_%	avg_query_coverage_%	avg_bitscore	min_evalue
+194	Campylobacter	G	52349	204698	391.0	99.6	100.0	99.4	242.1	1.14e-76
+197	Campylobacter jejuni	S	3482	8678	249.2	98.3	100.0	99.0	240.4	1.14e-76
+213849	Campylobacterales	O	256	1064	415.6	99.8	100.0	99.9	192.6	1.00e-66
+2	Bacteria	D	349	487	139.5	89.0	100.0	91.7	148.5	2.49e-68
+135621	Pseudomonadaceae	F	103	414	401.9	83.0	93.9	57.2	61.1	9.55e-23
+1236	Gammaproteobacteria	C	123	309	251.2	80.9	86.7	71.7	73.3	3.39e-32
+32022	Campylobacter jejuni subsp. jejuni	S1	86	282	327.9	99.0	100.0	99.8	255.8	1.14e-76
+2267891	Campylobacter novaezeelandiae	S	62	267	430.6	93.2	100.0	85.2	197.5	1.14e-76
+265	Paracoccus	G	125	243	194.4	86.0	93.8	54.0	75.1	1.22e-31
+195	Campylobacter coli	S	87	225	258.6	98.7	100.0	97.7	249.7	1.14e-76
+28211	Alphaproteobacteria	C	71	198	278.9	83.4	84.8	97.4	131.3	4.35e-36
+522484	Campylobacter avium LMG 24591	S1	33	194	587.9	98.9	100.0	99.9	228.0	5.20e-75
+1032242	Campylobacter sp. RM10537	S	35	186	531.4	98.4	100.0	99.8	238.8	1.14e-76
+31989	Paracoccaceae	F	40	168	420.0	83.5	91.0	88.7	112.7	8.78e-33
+1945662	Paracoccus contaminans	S	23	132	573.9	78.1	78.4	94.3	89.7	1.60e-20
+28898	Campylobacter helveticus	S	27	127	470.4	98.7	100.0	99.8	250.8	1.14e-76
+1760	Actinomycetes	C	63	123	195.2	85.5	88.5	48.0	75.2	8.98e-28
+72000	Kocuria rhizophila	S	55	108	196.4	78.4	79.5	63.9	59.1	1.62e-10
+497724	Campylobacter subantarcticus	S	17	102	600.0	98.0	100.0	99.2	246.7	1.14e-76
+1716	Corynebacterium	G	66	102	154.5	76.1	76.4	98.4	77.1	4.48e-16
+468	Moraxellaceae	F	15	90	600.0	88.4	90.5	85.4	151.5	2.58e-43
+475	Moraxella	G	120	90	75.0	82.3	89.0	83.7	97.0	2.62e-33
+1224	Pseudomonadota	P	196	90	45.9	80.4	83.3	61.2	59.4	3.48e-12
+2593542	unclassified Campylobacter	G1	23	83	360.9	95.5	100.0	80.5	191.7	1.14e-76
+1813019	Campylobacter hepaticus	S	39	79	202.6	98.9	100.0	99.2	247.1	1.14e-76
+824	Campylobacter gracilis	S	13	78	600.0	98.9	100.0	99.9	232.3	5.32e-75
+204455	Rhodobacterales	O	50	78	156.0	87.3	91.0	49.7	60.4	2.05e-24
+1301	Streptococcus	G	93	76	81.7	81.8	83.7	90.2	86.9	9.55e-23
+1783272	Terrabacteria group	D1	20	72	360.0	82.3	84.8	65.6	72.7	1.69e-14
+2760307	Paracoccus sp. MC1862	S	40	60	150.0	88.3	93.8	32.9	53.8	5.83e-10
+488545	Campylobacter lari subsp. concheus	S1	27	59	218.5	97.4	100.0	97.5	235.9	1.14e-76
+2505970	Campylobacter armoricus	S	27	54	200.0	99.9	100.0	100.0	274.3	1.14e-76
+119045	Methylobacteriaceae	F	9	51	566.7	77.4	78.3	88.7	79.5	2.67e-18
+2633022	unclassified Leptotrichia	G1	8	48	600.0	79.4	81.1	87.6	93.8	4.44e-21
+2572050	Campylobacter sp. CFSAN093246	S	22	44	200.0	99.7	100.0	99.6	260.2	1.14e-76
+1655500	Campylobacter vulpis	S	21	42	200.0	100.0	100.0	99.8	278.5	1.14e-76
+33011	Cutibacterium granulosum	S	16	42	262.5	84.2	89.2	80.8	110.3	9.49e-28
+2588536	Candidatus Methylopumilus universalis	S	20	39	195.0	79.0	81.4	84.8	87.4	7.44e-19
+59732	Chryseobacterium	G	6	36	600.0	75.9	75.9	83.1	54.7	6.34e-09
+2057025	Spirosoma pollinicola	S	6	33	550.0	83.5	83.6	36.4	50.5	9.76e-08
+1448857	Campylobacter corcagiensis	S	16	32	200.0	97.3	97.4	100.0	256.7	5.36e-70
+3031852	Epsilonproteobacteria	C	5	30	600.0	99.2	100.0	100.0	103.9	1.50e-26
+374106	Campylobacter cuniculorum	S	11	30	272.7	98.9	100.0	100.0	268.1	1.14e-76
+356	Hyphomicrobiales	O	5	30	600.0	77.7	77.7	90.6	73.7	1.37e-15
+683082	Campylobacter jejuni subsp. jejuni 1336	S2	14	28	200.0	98.6	100.0	100.0	255.1	1.14e-76
+1660078	Campylobacter sp. RM5004	S	4	24	600.0	98.0	100.0	99.7	247.2	1.14e-76
+135740	Paracoccus kondratievae	S	4	24	600.0	97.8	97.8	35.4	80.5	1.05e-16
+260714	Campylobacter insulaenigrae	S	5	18	360.0	98.0	100.0	99.9	255.6	1.14e-76
+2714939	Nocardioides sp. HDW12B	S	3	18	600.0	88.3	93.5	39.7	64.8	3.46e-17
+28216	Betaproteobacteria	C	4	18	450.0	82.7	92.4	79.5	89.7	3.39e-32
+28080	Campylobacter upsaliensis	S	8	16	200.0	98.9	100.0	100.0	269.3	1.14e-76
+197482	Malaciobacter halophilus	S	2	12	600.0	99.5	100.0	100.0	196.2	8.55e-57
+2688777	unclassified Paracoccus (in: a-proteobacteria)	G1	4	12	300.0	77.2	77.2	75.5	65.8	3.48e-12
+1381117	Campylobacter jejuni X	S1	5	10	200.0	98.8	100.0	99.8	255.8	1.14e-76
+2563897	Acinetobacter sp. 10FS3-1	S	4	7	175.0	77.4	79.0	79.0	67.3	2.69e-13
+1244531	Campylobacter iguaniorum	S	3	6	200.0	99.2	100.0	100.0	271.3	1.14e-76
+201	Campylobacter lari	S	3	6	200.0	98.5	100.0	99.9	256.5	4.11e-76
+2925411	Sulfurovum sp. XGS-02	S	1	6	600.0	98.5	100.0	100.0	235.0	1.00e-66
+1780362	Campylobacter geochelonis	S	1	6	600.0	94.9	96.7	100.0	233.5	2.49e-68
+583355	Coraliomargarita akajimensis DSM 45221	S1	1	6	600.0	91.3	92.1	100.3	196.5	1.18e-56
+283734	Staphylococcus pseudintermedius	S	1	6	600.0	85.4	85.4	80.4	43.6	4.21e-06
+1883	Streptomyces	G	61	6	9.8	84.9	84.9	48.3	73.1	2.08e-14
+2558918	Nocardioides cynanchi	S	2	6	300.0	83.6	84.5	38.4	55.6	5.83e-10
+57497	Deinococcus radiopugnans	S	2	6	300.0	83.6	83.6	40.4	54.7	7.54e-09
+40324	Stenotrophomonas maltophilia	S	185	6	3.2	82.7	82.7	34.4	45.4	4.54e-06
+196	Campylobacter fetus	S	4	4	100.0	86.8	99.2	99.6	134.6	5.48e-59
+33028	Staphylococcus saccharolyticus	S	246	4	1.6	78.6	78.6	55.6	54.7	7.54e-09
+1639	Listeria monocytogenes	S	2	3	150.0	91.4	91.4	33.3	49.1	2.29e-07
+76761	Pseudomonas veronii	S	1	3	300.0	87.8	87.8	27.2	49.1	3.51e-07
+22	Shewanella	G	1	3	300.0	77.1	77.1	86.8	67.6	9.69e-13
+198	Campylobacter hyointestinalis	S	1	2	200.0	99.7	100.0	100.0	276.5	1.14e-76
+1660074	Campylobacter sp. RM8964	S	1	2	200.0	99.7	100.0	100.0	276.5	1.14e-76
+306263	Campylobacter lari RM2100	S1	1	2	200.0	99.0	100.0	100.0	271.0	1.14e-76
+1385720	Campylobacter jejuni subsp. jejuni NCTC 11168-K12E5	S3	1	2	200.0	98.4	98.4	100.0	220.0	5.64e-59
+1183379	Campylobacter coli RM4661	S1	1	2	200.0	97.4	100.0	99.3	255.5	1.48e-75
+2572085	Campylobacter sp. CFSAN093260	S	1	2	200.0	96.2	97.2	100.0	234.5	1.41e-65
+1453988	Campylobacter lari RM16712	S1	1	2	200.0	96.0	100.0	98.6	235.0	1.14e-76
+469	Acinetobacter	G	567	1	0.2	79.0	79.0	69.5	69.4	2.69e-13
+3067904	Pararhizobium sp. IMCC3301	S	30	0	0.0	0.0	0.0	0.0	0.0	N/A
+2053	Gordonia	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+2054	Gordonia bronchialis	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2062	Streptomycetaceae	F	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+501783	Cloacibacterium	G	37	0	0.0	0.0	0.0	0.0	0.0	N/A
+2979870	Aminobacter sp. NyZ550	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+2654238	Pseudomonas sp. DTU12.1	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+1855519	Sphingobium sp. EP60837	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+3020832	Alloalcanivorax	G	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+35	Corallococcus macrosporus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2867236	Qipengyuania xiapuensis	S	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+2975784	Streptomyces sp. NBC_00588	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2560053	Paracoccus liaowanqingii	S	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+2560058	Brevundimonas sp. Bb-A	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+180282	Delftia tsuruhatensis	S	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+2797636	Streptomyces liliifuscus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2895947	Flavobacterium cyclinae	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+1212491	Legionella fallonii LLAP-10	S1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+75	Caulobacter	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+2054227	Sphingopyxis lindanitolerans	S	24	0	0.0	0.0	0.0	0.0	0.0	N/A
+1263728	Paracoccus sp. TOH	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+217204	Achromobacter insolitus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+925818	Methylobacterium sp. AMS5	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+1448059	Amycolatopsis rhabdoformis	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+575614	Prevotella sp. oral taxon 299 str. F0039	S1	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+90239	Moraxella canis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2754694	Chryseobacterium manosquense	S	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+84112	Eggerthella lenta	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+57493	Kocuria	G	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+106649	Acinetobacter guillouiae	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+1702043	Kocuria sp. BT304	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+489632	Pseudomonas chengduensis	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2795690	Kaistia sp. 32K	S	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+1499308	Paracoccus mutanolyticus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+147645	Paracoccus yeei	S	37	0	0.0	0.0	0.0	0.0	0.0	N/A
+202950	Acinetobacter baylyi	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+82115	Rhizobiaceae	F	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+45254	Dysgonomonas capnocytophagoides	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2033869	Rhodobacter sp. CZR27	S	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+1605838	Pseudomonas coleopterorum	S	23	0	0.0	0.0	0.0	0.0	0.0	N/A
+2017486	Nocardioides sp. S5	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2775246	Flavobacterium sp. CS20	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+53457	Janibacter	G	133	0	0.0	0.0	0.0	0.0	0.0	N/A
+196816	unclassified Acinetobacter	G1	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+196821	unclassified Pseudomonas	G1	33	0	0.0	0.0	0.0	0.0	0.0	N/A
+2732249	Gemmatimonas groenlandica	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+222	Achromobacter	G	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+639200	Sphaerotilus sulfidivorans	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+293088	Martelella	G	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2861282	Massilia sp. NP310	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2562282	Halomonas binhaiensis	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+234	Brucella	G	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1442032	Streptomyces dangxiongensis	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+41202	Ewingella americana	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+272630	Methylorubrum extorquens AM1	S1	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+43263	Pseudomonas alcaligenes	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2894081	Nocardioides okcheonensis	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+190721	Ralstonia insidiosa	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+680198	Streptomyces scabiei 87.22	S1	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+266	Paracoccus denitrificans	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+119060	Burkholderiaceae	F	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+283	Comamonas	G	72	0	0.0	0.0	0.0	0.0	0.0	N/A
+33051	Sphingomonas sanguinis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1296669	Aquabacterium olei	S	30	0	0.0	0.0	0.0	0.0	0.0	N/A
+286	Pseudomonas	G	238	0	0.0	0.0	0.0	0.0	0.0	N/A
+287	Pseudomonas aeruginosa	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+285	Comamonas testosteroni	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+2660641	Pseudoduganella aquatica	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1528099	Lawsonella clevelandensis	S	24	0	0.0	0.0	0.0	0.0	0.0	N/A
+293	Brevundimonas diminuta	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+296	Pseudomonas fragi	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+651561	Chryseobacterium arthrosphaerae	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+33069	Pseudomonas viridiflava	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+303	Pseudomonas putida	S	33	0	0.0	0.0	0.0	0.0	0.0	N/A
+1904944	Stenotrophomonas sp. LM091	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+2355	unidentified bacterial endosymbiont	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+41275	Brevundimonas	G	23	0	0.0	0.0	0.0	0.0	0.0	N/A
+316	Stutzerimonas stutzeri	S	128	0	0.0	0.0	0.0	0.0	0.0	N/A
+317	Pseudomonas syringae	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2926907	Abyssalbus ytuae	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+71999	Kocuria palustris	S	51	0	0.0	0.0	0.0	0.0	0.0	N/A
+2849093	Rhizobium sp. WYJ-E13	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+41297	Sphingomonadaceae	F	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+338	Xanthomonas	G	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+339	Xanthomonas campestris	S	85	0	0.0	0.0	0.0	0.0	0.0	N/A
+59734	Empedobacter	G	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+2761047	Janibacter sp. YB324	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+2023772	Paenibacillus sp. RUD330	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+352	Azotobacter	G	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+889201	Streptococcus cristatus ATCC 51100	S1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+374	Bradyrhizobium	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+379	Rhizobium	G	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+2434	Roseobacter denitrificans	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+59779	Paracoccus marcusii	S	50	0	0.0	0.0	0.0	0.0	0.0	N/A
+375175	Loigolactobacillus backii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+536979	Chitinophaga niabensis	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2589076	Paracoccus sp. AK26	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+2914710	Sphaerotilus microaerophilus	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+407	Methylobacterium	G	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+408	Methylorubrum extorquens	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+162209	Paenibacillus naphthalenovorans	S	52	0	0.0	0.0	0.0	0.0	0.0	N/A
+94625	Brucella intermedia	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+1855912	Luteitalea pratensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1561003	Candidatus Ichthyocystis hellenicum	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+184748	Paracoccus seriniphilus	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+108980	Acinetobacter ursingii	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+3060154	Diaphorobacter sp. C33	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+444	Legionellaceae	F	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+186817	Bacillaceae	F	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+371142	Sphingobacterium daejeonense	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+68042	Streptomyces hygroscopicus subsp. hygroscopicus	S1	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+51665	Aerococcus urinaeequi	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+470	Acinetobacter baumannii	S	35	0	0.0	0.0	0.0	0.0	0.0	N/A
+1219032	Comamonas terrigena NBRC 13299	S1	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+478	Moraxella nonliquefaciens	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+3064287	Mycolicibacter sp. MU0083	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1501662	Streptococcus parasuis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+481	Neisseriaceae	F	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2789857	Synechococcus sp. CBW1107	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+482	Neisseria	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1163748	Marinobacter nauticus ATCC 49840	S1	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+490	Neisseria sicca	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+207340	Roseomonas mucosa	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+1892855	Sphingosinicella sp. BN140058	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+858619	Corynebacterium variabile DSM 44702	S1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+78331	Mycobacterium canetti	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+507	Alcaligenes	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2626047	unclassified Synechococcus	G1	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+477697	Streptomyces sp. T12	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2609666	unclassified Halomonas	G1	24	0	0.0	0.0	0.0	0.0	0.0	N/A
+90627	Gallionellaceae	F	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+137732	Granulicatella elegans	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+1761794	Marinobacter sp. es.042	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1450520	Corynebacterium diphtheriae bv. mitis str. ISS 3319	S2	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+2642459	unclassified Geobacillus	G1	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+1516059	Microbulbifer sp. ALW1	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+543	Enterobacteriaceae	F	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+195105	Haematobacter massiliensis	S	40	0	0.0	0.0	0.0	0.0	0.0	N/A
+549	Pantoea agglomerans	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+551	Erwinia	G	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+1671721	Marinobacter sp. CP1	S	47	0	0.0	0.0	0.0	0.0	0.0	N/A
+562	Escherichia coli	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+391735	Verminephrobacter eiseniae EF01-2	S1	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+570	Klebsiella	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+573	Klebsiella pneumoniae	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2478662	Acidovorax sp. 1608163	S	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+584	Proteus mirabilis	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+586	Providencia	G	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+1038928	Streptomyces xinghaiensis	S	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+2769491	Massilia litorea	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+121428	Sphingobium xenophagum	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+613	Serratia	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1690221	Streptomyces spongiicola	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+88688	Caulobacter segnis	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+12916	Acidovorax	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+642	Aeromonas	G	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+86661	Bacillus cereus group	G1	27	0	0.0	0.0	0.0	0.0	0.0	N/A
+1176198	Streptomyces harbinensis	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+648	Aeromonas caviae	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+2701	Gardnerella	G	30	0	0.0	0.0	0.0	0.0	0.0	N/A
+2702	Gardnerella vaginalis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2892442	Pseudomonas sp. CIP-10	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+43675	Rothia mucilaginosa	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+3023517	Brachybacterium sp. GPGPB12	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+1714845	Alteromonas sp. BL110	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+670	Vibrio parahaemolyticus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1727145	Anaerocolumna chitinilytica	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1940138	Candidatus Walczuchella	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1077935	Paracoccus zhejiangensis	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+225971	Qipengyuania citrea	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+2742	Marinobacter	G	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+2745	Halomonas	G	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+2822846	Pseudoalteromonas sp. SCSIO 43088	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+1166018	Fibrella aestuarina BUZ 2	S1	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+29379	Staphylococcus auricularis	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+29382	Staphylococcus cohnii	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+225991	Comamonas aquatica	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+29385	Staphylococcus saprophyticus	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+29388	Staphylococcus capitis	S	56	0	0.0	0.0	0.0	0.0	0.0	N/A
+29391	Gemella morbillorum	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+862965	Haemophilus parainfluenzae T3T1	S1	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+29442	Pseudomonas tolaasii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+105219	Ralstonia mannitolilytica	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+47877	Pseudomonas amygdali	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2923272	Streptomyces tubbatahanensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+39692	Mycolicibacterium parafortuitum	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+47885	Pseudomonas oryzihabitans	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+391953	Aquincola tertiaricarbonis	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+92945	Ketogulonicigenium vulgare	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2820884	Spiractinospora alimapuensis	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2487072	Epilithonimonas vandammei	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+670516	Mycobacteroides	G	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+144184	Corynebacterium afermentans subsp. lipophilum	S1	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1585976	Bergeyella cardium	S	27	0	0.0	0.0	0.0	0.0	0.0	N/A
+2597701	Comamonas flocculans	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+848	Fusobacterium	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+1545044	Paracoccus sanguinis	S	116	0	0.0	0.0	0.0	0.0	0.0	N/A
+244566	Pseudomonas lurida	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+2929495	Faecalibacterium sp. I4-3-84	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+13160	Brevundimonas bullata	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+2069367	Achromobacter veterisilvae	S	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+2739063	Thiomicrorhabdus xiamenensis	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+2593676	unclassified Streptomyces	G1	60	0	0.0	0.0	0.0	0.0	0.0	N/A
+2921361	Paenibacillus sp. FSL E2-0178	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+45972	Staphylococcus pasteuri	S	24	0	0.0	0.0	0.0	0.0	0.0	N/A
+164759	Diaphorobacter nitroreducens	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+924	Thiobacillus sp.	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+584609	Tenacibaculum jejuense	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+199591	Brevibacterium luteolum	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1803177	Arcanobacterium wilhelmae	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+2986923	Pararhizobium sp. BT-229	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2841528	Eubacterium sp. MSJ-33	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+76731	Roseateles depolymerans	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+877500	Halarcobacter anaerophilus	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1745854	Ancylobacter pratisalsi	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+959	Bdellovibrio bacteriovorus	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2986949	Jiella pelagia	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+80840	Burkholderiales	O	74	0	0.0	0.0	0.0	0.0	0.0	N/A
+2083786	Devosia sp. I507	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+3036127	Halomonas sp. CKK8	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+3036128	Diaphorobacter limosus	S	39	0	0.0	0.0	0.0	0.0	0.0	N/A
+80864	Comamonadaceae	F	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+80865	Delftia	G	35	0	0.0	0.0	0.0	0.0	0.0	N/A
+80878	Acidovorax temperans	S	456	0	0.0	0.0	0.0	0.0	0.0	N/A
+2038776	Kaistella flava (ex Peng et al. 2021)	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+3030011	Paracoccus sp. S3-43	S	23	0	0.0	0.0	0.0	0.0	0.0	N/A
+488447	Burkholderia contaminans	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+863239	Corynebacterium nuruki S6-4	S1	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+1879049	Acinetobacter sp. WCHAc010034	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+85006	Micrococcales	O	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+85007	Mycobacteriales	O	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+85009	Propionibacteriales	O	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+412690	Microterricola viridarii	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+2782232	Chryseobacterium group	F1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+2282523	Methylorubrum	G	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+85023	Microbacteriaceae	F	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+1930274	Roseimaritima multifibrata	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+46124	Granulicatella adiacens	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+1541170	Sphingomonas morindae	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+2976818	Cloacibacterium sp. TD35	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+76860	Streptococcus constellatus	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+551996	Mucilaginibacter gossypii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+572479	Halanaerobium praevalens DSM 2228	S1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+558152	Chryseobacterium piperi	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+46165	Actinomadura verrucosospora	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+33882	Microbacterium	G	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+3118173	Streptomyces sp. Q6	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+904291	Microbacterium sediminis	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+152682	Sphingomonas melonis	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+861299	Gemmatirosa kalamazoonensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+492670	Bacillus velezensis	S	45	0	0.0	0.0	0.0	0.0	0.0	N/A
+2419844	Xanthobacter sp. YC-JY1	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1866885	Mycolicibacterium	G	36	0	0.0	0.0	0.0	0.0	0.0	N/A
+1979527	Corynebacterium kefirresidentii	S	34	0	0.0	0.0	0.0	0.0	0.0	N/A
+1870984	Anaerococcus mediterraneensis	S	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+1162	Nostocaceae	F	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+3036303	Peptonophilus genitalis	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+2161816	Tessaracoccus timonensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+238749	Diaphorobacter	G	86	0	0.0	0.0	0.0	0.0	0.0	N/A
+1266845	Carnobacterium inhibens subsp. gilichinskyi	S1	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+48296	Acinetobacter pittii	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+1922226	Anderseniella sp. Alg231-50	S	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+3019969	Rheinheimera sp. MM224	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2768069	Streptomyces xanthii	S	24	0	0.0	0.0	0.0	0.0	0.0	N/A
+2587847	Roseovarius sp. THAF9	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2657482	unclassified Gordonia (in: high G+C Gram-positive bacteria)	G1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+2358479	Tenacibaculum singaporense	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+1619153	Cohnella sp. LGH	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2594003	Ferrovibrio terrae	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+91347	Enterobacterales	O	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+34004	Paracoccus aminovorans	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+44249	Paenibacillus	G	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+2811104	Streptomyces durocortorensis	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+2364647	Pantoea piersonii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2493681	Mesorhizobium sp. M7A.F.Ce.TU.012.03.2.1	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+582899	Hyphomicrobium denitrificans ATCC 51888	S1	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+3073268	Citricoccus sp. I39-566	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1269	Micrococcus	G	163	0	0.0	0.0	0.0	0.0	0.0	N/A
+1270	Micrococcus luteus	S	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+2565368	Pseudomonas atacamensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1279	Staphylococcus	G	51	0	0.0	0.0	0.0	0.0	0.0	N/A
+288000	Bradyrhizobium sp. BTAi1	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+1280	Staphylococcus aureus	S	30	0	0.0	0.0	0.0	0.0	0.0	N/A
+1282	Staphylococcus epidermidis	S	105	0	0.0	0.0	0.0	0.0	0.0	N/A
+861445	Psychrobacter sanguinis	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+1292	Staphylococcus warneri	S	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+34062	Moraxella osloensis	S	478	0	0.0	0.0	0.0	0.0	0.0	N/A
+578833	Stutzerimonas stutzeri subgroup	G2	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+40214	Acinetobacter johnsonii	S	81	0	0.0	0.0	0.0	0.0	0.0	N/A
+1302	Streptococcus gordonii	S	32	0	0.0	0.0	0.0	0.0	0.0	N/A
+1305	Streptococcus sanguinis	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+40215	Acinetobacter junii	S	61	0	0.0	0.0	0.0	0.0	0.0	N/A
+1303	Streptococcus oralis	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+1308	Streptococcus thermophilus	S	36	0	0.0	0.0	0.0	0.0	0.0	N/A
+2897181	Flavobacterium channae	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+1310	Streptococcus sobrinus	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+1313	Streptococcus pneumoniae	S	35	0	0.0	0.0	0.0	0.0	0.0	N/A
+1314	Streptococcus pyogenes	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+32033	Lysobacteraceae	F	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+34085	Riemerella anatipestifer	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+156978	Corynebacterium imitans	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+66883	Streptomyces cyaneofuscatus	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2714952	Roseateles sp. DAIF2	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+857417	Janibacter indicus	S	45	0	0.0	0.0	0.0	0.0	0.0	N/A
+1352	Enterococcus faecium	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1358	Lactococcus lactis	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+3040598	Pseudomonas paraveronii	S	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+1389922	Achromobacter mucicolens	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+398694	Mycobacterium shinjukuense	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1385	Bacillales	O	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+1842540	Methyloversatilis sp. RAC08	S	39	0	0.0	0.0	0.0	0.0	0.0	N/A
+2815343	Nitrogeniibacter aestuarii	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1396	Bacillus cereus	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+13687	Sphingomonas	G	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+13689	Sphingomonas paucimobilis	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+1404	Priestia megaterium	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+1405	Bacillus mycoides	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+40323	Stenotrophomonas	G	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+28037	Streptococcus mitis	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+2026885	Candidatus Bipolaricaulis anaerobius	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1392005	Comamonas testosteroni TK102	S1	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2508168	Luteimonas sp. YGD11-2	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+2033033	Aeromonas sp. CU5	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+3120520	Georgenia sp. M64	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+146827	Corynebacterium simulans	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+2082188	Sphingobium sp. YG1	S	17	0	0.0	0.0	0.0	0.0	0.0	N/A
+1967501	Shinella sumterensis	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+28047	Mycolicibacterium confluentis	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2852117	Vreelandella profundi	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+38293	Photobacterium damselae	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1912216	Cutibacterium	G	61	0	0.0	0.0	0.0	0.0	0.0	N/A
+3016089	Micromonospora sp. WMMD987	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+38301	Corynebacterium minutissimum	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+2954655	Anoxybacillus sp. FSL W8-1294	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+38304	Corynebacterium tuberculostearicum	S	42	0	0.0	0.0	0.0	0.0	0.0	N/A
+85413	Bosea	G	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+538025	Rhizobium etli 8C-3	S1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+363952	Comamonas thiooxydans	S	27	0	0.0	0.0	0.0	0.0	0.0	N/A
+2663859	Aeromicrobium senzhongii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+179636	Alicycliphilus denitrificans	S	30	0	0.0	0.0	0.0	0.0	0.0	N/A
+28090	Acinetobacter lwoffii	S	28	0	0.0	0.0	0.0	0.0	0.0	N/A
+712122	Actinomyces sp. oral taxon 414	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2901380	Pseudomonas sp. NIBR-H-19	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2735554	Diaphorobacter sp. JS3050	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+996801	Polaribacter reichenbachii	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+558537	Delftia lacustris	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+1485	Clostridium	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1491	Clostridium botulinum	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+28127	Hoylesella buccalis	S	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+28131	Prevotella intermedia	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+2571749	Novosphingobium sp. EMRT-2	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2909672	Brevibacterium spongiae	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+1513	Clostridium tetani	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2956784	Chryseobacterium paludis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2854389	Bradyrhizobium prioritasuperba	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1715720	Diaphorobacter ruginosibacter	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2579977	Brevundimonas sp. SGAir0440	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+2057741	Bradyrhizobium sp. SK17	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+2792978	Gardnerella leopoldii	S	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+2792979	Gardnerella swidsinskii	S	98	0	0.0	0.0	0.0	0.0	0.0	N/A
+2930199	Leisingera thetidis	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+3057176	Thiohalobacter sp. IOR34	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+171549	Bacteroidales	O	19	0	0.0	0.0	0.0	0.0	0.0	N/A
+2903582	Lentzea sp. NBC_00516	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2883106	Halomonas sp. NyZ770	S	33	0	0.0	0.0	0.0	0.0	0.0	N/A
+1578	Lactobacillus	G	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1579	Lactobacillus acidophilus	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1648182	Streptomyces yangpuensis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1902136	Streptococcus sp. NPS 308	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+200252	Deinococcus aetherius	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+1416779	Epilithonimonas zeae	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+1312364	Brevundimonas albigilva	S	34	0	0.0	0.0	0.0	0.0	0.0	N/A
+2059884	Streptomyces sp. CMB-StM0423	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1654	Actinomyces	G	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+1655	Actinomyces naeslundii	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+2817656	Marinobacter sp. CA1	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+185978	unclassified Paenibacillus	G1	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1663	Arthrobacter	G	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+136841	Pseudomonas aeruginosa group	G1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+437897	Megamonas funiformis	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+136843	Pseudomonas fluorescens group	G1	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+136846	Stutzerimonas stutzeri group	G1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+136849	Pseudomonas syringae group	G1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+419475	Brucella pseudogrignonensis	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+2649760	unclassified Diaphorobacter	G1	49	0	0.0	0.0	0.0	0.0	0.0	N/A
+83618	Pseudoxanthomonas	G	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+204457	Sphingomonadales	O	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+3118768	Sphingomonas sp. gentR	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+1717	Corynebacterium diphtheriae	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+945844	Massilia oculi	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+390846	Echinicola	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+83655	Leclercia adecarboxylata	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+2666185	Spiribacter sp. 2438	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+216778	Stenotrophomonas rhizophila	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+237258	Cloacibacterium normanense	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+67280	Streptomyces bobili	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+1747	Cutibacterium acnes	S	1507	0	0.0	0.0	0.0	0.0	0.0	N/A
+2567896	Polyangium aurulentum	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+67296	Streptomyces finlayi	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+1763	Mycobacterium	G	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+2952932	Thiorhodovibrio litoralis	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2004710	Cloacibacterium caeni	S	82	0	0.0	0.0	0.0	0.0	0.0	N/A
+1766	Mycolicibacterium fortuitum	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+2707174	Enterobacter sp. T2	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+3063533	Flavivirga abyssicola	S	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1774	Mycobacteroides chelonae	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+216816	Bifidobacterium longum	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+712435	Porphyromonas sp. oral taxon 275	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+2608887	unclassified Streptococcus	G1	21	0	0.0	0.0	0.0	0.0	0.0	N/A
+2778876	Methyloradius palustris	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+3081984	Pigmentiphaga sp. CHJ604	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+128785	Pseudoxanthomonas mexicana	S	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+2862866	Agrobacterium cucumeris	S	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+216851	Faecalibacterium	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+3045147	Acinetobacter sp. KCTC 92772	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+1827	Rhodococcus	G	23	0	0.0	0.0	0.0	0.0	0.0	N/A
+337701	Roseovarius pacificus	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1839	Nocardioides	G	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+1009464	Gardnerella vaginalis HMP9231	S1	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+585529	Corynebacterium genitalium ATCC 33030	S1	11	0	0.0	0.0	0.0	0.0	0.0	N/A
+1197884	Acinetobacter venetianus VE-C3	S1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+745277	Rahnella aquatilis CIP 78.65 = ATCC 33071	S1	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+165695	Sphingobium	G	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+343874	Empedobacter falsenii	S	12	0	0.0	0.0	0.0	0.0	0.0	N/A
+2051906	Exiguobacterium sp. N4-1P	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+544580	Actinomyces oris	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+2807626	Glaciimonas sp. PAMC28666	S	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+358220	Acidovorax sp. KKS102	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+1873	Micromonospora	G	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+434014	Variovorax sp. PBL-E5	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+1888	Streptomyces albus	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+1892	Streptomyces anulatus	S	28	0	0.0	0.0	0.0	0.0	0.0	N/A
+42858	Mammaliicoccus lentus	S	25	0	0.0	0.0	0.0	0.0	0.0	N/A
+216942	Spiroplasma litorale	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+3110772	Pseudomonas sp. IT1137	S	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+3061632	Halomonas sp. I5-271120	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+266117	Rubrobacter xylanophilus DSM 9941	S1	2	0	0.0	0.0	0.0	0.0	0.0	N/A
+706439	Actinomyces sp. oral taxon 171 str. F0337	S1	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+2320270	Pseudomonas sp. DG56-2	S	10	0	0.0	0.0	0.0	0.0	0.0	N/A
+2645906	unclassified Pseudoxanthomonas	G1	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+165779	Anaerococcus	G	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+2903960	Sphingomonas sp. S2-65	S	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+1646498	Acinetobacter sp. TTH0-4	S	5	0	0.0	0.0	0.0	0.0	0.0	N/A
+1433513	Streptococcus gwangjuense	S	22	0	0.0	0.0	0.0	0.0	0.0	N/A
+83889	unclassified Marinobacter	G1	4	0	0.0	0.0	0.0	0.0	0.0	N/A
+927666	Streptococcus oralis Uo5	S1	8	0	0.0	0.0	0.0	0.0	0.0	N/A
+94138	Staphylococcus ureilyticus	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A
+632772	Rhodococcus opacus B4	S1	13	0	0.0	0.0	0.0	0.0	0.0	N/A
+36805	Microbacterium aurum	S	15	0	0.0	0.0	0.0	0.0	0.0	N/A
+200644	Flavobacteriales	O	9	0	0.0	0.0	0.0	0.0	0.0	N/A
+3141581	Achromobacter sp. E1	S	18	0	0.0	0.0	0.0	0.0	0.0	N/A
+765910	Marichromatium purpuratum 984	S1	7	0	0.0	0.0	0.0	0.0	0.0	N/A
+1177574	Prevotella jejuni	S	6	0	0.0	0.0	0.0	0.0	0.0	N/A
+2963431	Janibacter sp. CX7	S	43	0	0.0	0.0	0.0	0.0	0.0	N/A
+2033	Microbacterium testaceum	S	14	0	0.0	0.0	0.0	0.0	0.0	N/A
+1517554	Sphingomonas sp. HMP9	S	1	0	0.0	0.0	0.0	0.0	0.0	N/A
+2975733	Streptomyces sp. NBC_00385	S	3	0	0.0	0.0	0.0	0.0	0.0	N/A
+3076087	Moraxella sp. DOX410	S	20	0	0.0	0.0	0.0	0.0	0.0	N/A
+2684926	unclassified Acidovorax	G1	23	0	0.0	0.0	0.0	0.0	0.0	N/A
+2047	Rothia dentocariosa	S	16	0	0.0	0.0	0.0	0.0	0.0	N/A

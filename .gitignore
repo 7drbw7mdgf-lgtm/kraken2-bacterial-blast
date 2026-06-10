@@ -1,0 +1,14 @@
+# Large files - excluded from git
+kraken2_output/kraken2.output
+fastq/
+*.bam
+bacterial_reads.fasta
+__pycache__/
+cjejuni_blastdb/
+*.nhr
+*.nin
+*.nsq
+*.ndb
+*.not
+*.ntf
+*.nto
