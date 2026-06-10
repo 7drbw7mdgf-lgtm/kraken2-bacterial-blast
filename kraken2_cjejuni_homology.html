@@ -15,8 +15,16 @@ header p{font-size:11px;opacity:.75;margin-top:3px;line-height:1.5}
 .bar input[type=range]{width:130px;vertical-align:middle}
 .sv{font-weight:700;color:#1a3a5c;min-width:34px;display:inline-block}
 .leg{display:flex;align-items:center;gap:5px;font-size:11px}
-.lg{width:110px;height:11px;border-radius:3px;background:linear-gradient(to right,#fff,#ff8800,#c00);border:1px solid #ccc}
+.lg{width:110px;height:11px;border-radius:3px;background:linear-gradient(to right,#f0f8ff,#4a90d9,#0e2a45);border:1px solid #ccc}
 .lg2{width:18px;height:11px;background:#ddd;border-radius:2px;border:1px solid #ccc}
+.key{background:#fff;border:1px solid #dde;border-radius:6px;padding:10px 16px;margin:10px 20px;display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start;font-size:11px}
+.key h3{font-size:12px;font-weight:700;margin-bottom:6px;color:#1a3a5c;width:100%}
+.key-item{display:flex;flex-direction:column;gap:4px}
+.key-item span{font-weight:600;margin-bottom:2px}
+.pct-grad{width:160px;height:16px;border-radius:4px;background:linear-gradient(to right,#fff,#ff8800,#c00);border:1px solid #ccc}
+.cnt-grad{width:160px;height:16px;border-radius:4px;background:linear-gradient(to right,#f0f8ff,#4a90d9,#0e2a45);border:1px solid #ccc}
+.key-swatch{display:inline-block;width:20px;height:16px;border-radius:3px;vertical-align:middle;border:1px solid #ccc;margin-right:4px}
+.key-row{display:flex;align-items:center;margin-top:3px}
 #info{padding:5px 20px;background:#f0f0f0;border-bottom:1px solid #dde;color:#555;font-size:11px}
 .wrap{overflow:auto;height:calc(100vh - 175px)}
 table{border-collapse:collapse;table-layout:fixed}
@@ -45,11 +53,10 @@ tbody tr:hover td{filter:brightness(.92)}
 <body>
 <header>
   <h1>Bacterial Species &mdash; <em>C. jejuni</em> NCTC 11168 BLAST % Homology</h1>
-  <p>Rows = species from 96 Kraken2 reports &nbsp;|&nbsp;
-     Columns = samples grouped by timepoint &nbsp;|&nbsp;
-     Cell = % reads matching <em>C. jejuni</em> (BLASTn, e&#8209;value&nbsp;&le;&nbsp;1e&#8209;5, id&nbsp;&ge;&nbsp;70%) &nbsp;|&nbsp;
-     <span style="background:#ddd;padding:0 4px;border-radius:2px">grey</span> = species absent &nbsp;|&nbsp;
-     N/T = present but not in BLAST sample
+  <p>Rows = bacterial species &nbsp;|&nbsp; Columns = 96 samples grouped by timepoint &nbsp;|&nbsp;
+     <b>Cell number</b> = % reads matching <em>C. jejuni</em> (BLASTn e-value ≤1e-5, id ≥70%) &nbsp;|&nbsp;
+     <b>Cell colour</b> = read count abundance (light→dark blue) &nbsp;|&nbsp;
+     Grey = absent &nbsp;|&nbsp; N/T = present, not in BLAST sample
   </p>
 </header>
 <div class="bar">
@@ -63,10 +70,45 @@ tbody tr:hover td{filter:brightness(.92)}
     <input type="range" id="ms" min="1" max="96" value="1"
       oninput="document.getElementById('msv').textContent=this.value;applyFilter()">
     <span class="sv" id="msv">1</span></span>
-  <span class="leg">0%<div class="lg"></div>100%&nbsp;
+  <span class="leg">Abundance: low<div class="lg"></div>high&nbsp;&nbsp;
     <div class="lg2"></div>absent</span>
 </div>
 <div id="info"></div>
+
+<div class="key">
+  <h3>Key</h3>
+  <div class="key-item">
+    <span>Cell number — % reads matching <em>C. jejuni</em></span>
+    <div style="display:flex;align-items:center;gap:6px">
+      <span>0%</span><div class="pct-grad"></div><span>100%</span>
+    </div>
+    <div style="font-size:10px;color:#666;margin-top:2px">
+      Derived from BLASTn (e-value ≤1e-5, identity ≥70%) on sample 24h_2.<br>
+      Same % shown for all samples where the species is present (BLAST homology is a species property).
+    </div>
+  </div>
+  <div class="key-item">
+    <span>Cell colour — read count abundance (log scale)</span>
+    <div style="display:flex;align-items:center;gap:6px">
+      <span>low</span><div class="cnt-grad"></div><span>high</span>
+    </div>
+    <div style="font-size:10px;color:#666;margin-top:2px">Varies per sample — shows where each species is most abundant.</div>
+  </div>
+  <div class="key-item">
+    <span>Special values</span>
+    <div class="key-row"><span class="key-swatch" style="background:#e0e0e0"></span>Grey (—) = species absent from that sample</div>
+    <div class="key-row"><span class="key-swatch" style="background:#f0f8ff;border:1px solid #ccc"></span>N/T = present but species not covered by BLAST run</div>
+  </div>
+  <div class="key-item">
+    <span>Fixed columns</span>
+    <div style="font-size:10px;color:#666;margin-top:2px">
+      <b>Total reads</b> — sum across all 96 samples<br>
+      <b>#Samp</b> — number of samples where species detected<br>
+      <b>Avg ID%</b> — mean BLAST alignment identity (hit reads only)
+    </div>
+  </div>
+</div>
+
 <div class="wrap" id="wrap">
 <table id="tbl">
 <thead>
@@ -117,14 +159,18 @@ const COND = [{"label":"Uninfected 0h","n":16},{"label":"15m","n":16},{"label":"
   });
 })();
 
-function pctColor(p){
-  if(p===null) return null; // not tested
-  if(p===0) return '#ffffff';
-  const t=p/100;
-  const r=255, g=Math.round(255*(1-t)), b=Math.round(220*(1-t));
+const MAX_CNT=2045155;
+// Cell background: white → steel-blue → dark navy by log-scaled read count
+function countColor(cnt){
+  if(cnt===0) return '#e0e0e0';
+  const t=Math.log1p(cnt)/Math.log1p(MAX_CNT);
+  const r=Math.round(240-230*t), g=Math.round(248-168*t), b=Math.round(255-200*t);
   return `rgb(${r},${g},${b})`;
 }
-function textCol(p){ return (p!==null&&p>=55)?'#111':'#333'; }
+function textCol(cnt){
+  const t=Math.log1p(cnt)/Math.log1p(MAX_CNT);
+  return t>0.5?'#fff':'#222';
+}
 
 let sortCol=1, sortDir=-1;
 let visible=[...SP];
@@ -161,14 +207,11 @@ function render(){
       if(cnt===0){
         cells+=`<td class="cell absent" title="${SAMP[i]}: absent">—</td>`;
       }else{
-        const bg=pctColor(hp);
-        const valStr=hp!==null ? hp.toFixed(1)+'%' : '<span class="nt">N/T</span>';
-        const tip=`${SAMP[i]}: ${cnt.toLocaleString()} reads | ${hp!==null?hp.toFixed(1)+'% hit C.jejuni':'not in BLAST sample'}`;
-        if(bg){
-          cells+=`<td class="cell" style="background:${bg};color:${textCol(hp)}" title="${tip}">${valStr}</td>`;
-        }else{
-          cells+=`<td class="cell" title="${tip}">${valStr}</td>`;
-        }
+        const bg  = countColor(cnt);
+        const fg  = textCol(cnt);
+        const val = hp!==null ? hp.toFixed(1)+'%' : 'N/T';
+        const tip = `${SAMP[i]}: ${cnt.toLocaleString()} reads | ${hp!==null?hp.toFixed(1)+'% match C.jejuni (avg id '+avg+'%)':'not in BLAST sample'}`;
+        cells+=`<td class="cell" style="background:${bg};color:${fg}" title="${tip}">${val}</td>`;
       }
     }
     frags.push(`<tr>
